@@ -1,7 +1,9 @@
 # TodoList
 
-# Gemacht
+## Wichtig
 
-# Morgen zu erledigen
+## Gemacht
 
-# Nächste Woche erledigen
+## Morgen zu erledigen
+
+## Nächste Woche erledigen
